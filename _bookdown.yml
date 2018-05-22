@@ -1,0 +1,23 @@
+new_session: yes
+
+rmd_files:   [ "index.rmd",
+              "acknowledgements.Rmd",
+              "course_description.rmd",
+              "how_to.Rmd",
+              "safety.Rmd",
+              "fungi.rmd",
+              "non_vascular_plants.rmd",
+              "vascular_plants.rmd",
+              "porifera.rmd",
+              "rotifera.rmd",
+              "nematoda.rmd",
+              "echinodermata.rmd",
+              "tissues.rmd",
+              "anatomy_1.rmd",
+              "anatomy_2.rmd",
+              "reproduction.rmd",
+              "appendix_1.rmd",
+              "appendix_2.rmd",
+            ]
+            
+before_chapter_script:  "_common.R"
