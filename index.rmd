@@ -1,10 +1,11 @@
 ---
 knit: "bookdown::render_book"
-title: "Biology II Laboratory Manual"
+title: "Laboratory Manual For SCI104
+        Biology II at Roxbury Community College"
 author: ["Nikolaus Sucher"]
 description: "This laboratory manual will accompany you during your laboratory for Biology II."
 #url: 'https://myrcc.rcc.mass.edu/ICS/104_lab_manual/index.html'
-#github-repo: nikolaussuchert/bio-two
+#github-repo: nikolaussuchert/bio-two-master
 twitter-handle: NikolausSucher
 cover-image: cover.png
 site: bookdown::bookdown_site
