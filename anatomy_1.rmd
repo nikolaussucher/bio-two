@@ -34,7 +34,7 @@ surface of both males and females.
 
 
 ```{r dissection, fig.cap='Cut along the dotted lines to expose the abdominal and thoracic cavieties and the neck area.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/pig/pig_dissection.png")
+knitr::include_graphics("./figures/pig/pig_dissection.svg")
 ```
 
 ```{r pig, fig.cap='Overview of the abdominal and thoracic cavities and the neck area.', echo=FALSE, message=FALSE, warning=FALSE}
