@@ -1,5 +1,6 @@
 _bookdown_files
 _book
+*.epub
 *.aux
 *.pdf
 *.idx
