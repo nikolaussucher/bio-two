@@ -10,10 +10,10 @@ Mammalian skin is composed of two primary layers:
 *	the epidermis, which provides waterproofing and serves as a barrier to infection; and
 *	the dermis, which serves as a location for the appendages of skin;
 
-(ref:skin) [Anatomy of human skin.](https://commons.wikimedia.org/wiki/File:Skin.png)
+(ref:skin) [Anatomy of human skin.](https://commons.wikimedia.org/wiki/File:Skin.jpg)
 
 ```{r skin, fig.cap='(ref:skin)', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/anatomy/skin.png")
+knitr::include_graphics("./figures/anatomy/skin.jpg")
 ```
 
 ## Epidermis
@@ -92,7 +92,7 @@ Spongy bone tissue is the internal tissue of the skeletal bone and is an open ce
 (ref:bone) [Compact and spongy bone.](https://commons.wikimedia.org/wiki/File:Illu_compact_spongy_bone.jpg)
 
 ```{r bone, fig.cap='(ref:bone)', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/anatomy/bone.png")
+knitr::include_graphics("./figures/anatomy/bone.jpg")
 ```
 
 ## The kidneys
@@ -174,15 +174,15 @@ Heart tissue receives blood from two arteries which arise just above the aortic 
     *   Locate: renal corpuscles, proximal and distal tubules, collecting ducts.
 
 ```{r vessels, fig.cap='Artery, vein, capillary.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/anatomy/vessels.png")
+knitr::include_graphics("./figures/anatomy/vessels.jpg")
 ```
 
 ```{r atherosclerosis, fig.cap='Atherosclerosis.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/anatomy/atherosclerosis.png")
+knitr::include_graphics("./figures/anatomy/atherosclerosis.jpg")
 ```
 
 ```{r kidney, fig.cap='Cortex of the kidney.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/anatomy/kidney.png")
+knitr::include_graphics("./figures/anatomy/kidney.jpg")
 ```
 
 
@@ -215,23 +215,23 @@ In the skin slides listed below identify as many of the following as you can fin
 
 
 ```{r unpigmented, fig.cap='Unpigmented skin.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/anatomy/unpigmented_skin.png")
+knitr::include_graphics("./figures/anatomy/unpigmented_skin.jpg")
 ```
 
 ```{r axillary, fig.cap='Axillary skin.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/anatomy/axillary_skin.png")
+knitr::include_graphics("./figures/anatomy/axillary_skin.jpg")
 ```
 
 ```{r scalp, fig.cap='Human scalp.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/anatomy/human_scalp.png")
+knitr::include_graphics("./figures/anatomy/human_scalp.jpg")
 ```
 
 ```{r cornified, fig.cap='Cornified skin.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/anatomy/cornified_skin.png")
+knitr::include_graphics("./figures/anatomy/cornified_skin.jpg")
 ```
 
 ```{r compactbone, fig.cap='Compact Bone.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/anatomy/compact_bone.png")
+knitr::include_graphics("./figures/anatomy/compact_bone.jpg")
 ```
 
 ## The human skeleton

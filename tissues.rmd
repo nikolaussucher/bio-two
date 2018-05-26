@@ -44,7 +44,7 @@ Some common kinds of epithelium are listed below:
 (ref:epithelium) [Types of epithelia](https://commons.wikimedia.org/wiki/File:Illu_epithelium.jpg)
 
 ```{r epithelium, fig.cap='(ref:epithelium)', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/tissues/epithelium.png")
+knitr::include_graphics("./figures/tissues/epithelium.jpg")
 ```
 
 
@@ -121,83 +121,83 @@ Mammals such as humans have a variety of organ systems. These specific systems a
     * Identify:  cell body of neuron with nucleus, dendrites, axons (if possible), and neuroglial cells
 
 ```{r lung, fig.cap='Simple squamous epithelium (human lung).', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/tissues/lung_simple_squamous.png")
+knitr::include_graphics("./figures/tissues/lung_simple_squamous.jpg")
 ```
 
 ```{r stratifiedsquamous, fig.cap='Stratified squamous epithelium (human epidermis).', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/tissues/stratified_squamous.png")
+knitr::include_graphics("./figures/tissues/stratified_squamous.jpg")
 ```
 
 ```{r cuboidal, fig.cap='Simple cuboidal epithelium (kidney).', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/tissues/simple_cuboidal.png")
+knitr::include_graphics("./figures/tissues/simple_cuboidal.jpg")
 ```
 
 ```{r columnar, fig.cap='Simple columnar epithelium (amphibian).', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/tissues/simple_columnar.png")
+knitr::include_graphics("./figures/tissues/simple_columnar.jpg")
 ```
 
 ```{r pseudociliated, fig.cap='Pseudostratified ciliated columnar epithelium.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/tissues/pseudostratified_ciliated_columnar.png")
+knitr::include_graphics("./figures/tissues/pseudostratified_ciliated_columnar.jpg")
 ```
 
 ```{r areolar, fig.cap='Areolar connective tissue.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/tissues/areolar_spread.png")
+knitr::include_graphics("./figures/tissues/areolar_spread.jpg")
 ```
 
 ```{r whitefibrous, fig.cap='White fibrous tissue.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/tissues/white_fibrous.png")
+knitr::include_graphics("./figures/tissues/white_fibrous.jpg")
 ```
 
 ```{r adipose, fig.cap='Adipose tissue.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/tissues/adipose.png")
+knitr::include_graphics("./figures/tissues/adipose.jpg")
 ```
 
 ```{r hyaline, fig.cap='Hyaline cartilage.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/tissues/hyaline_cartilage.png")
+knitr::include_graphics("./figures/tissues/hyaline_cartilage.jpg")
 ```
 
 ```{r elastic, fig.cap='Elastic cartilage.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/tissues/elastic_cartilage.png")
+knitr::include_graphics("./figures/tissues/elastic_cartilage.jpg")
 ```
 
 ```{r trachea, fig.cap='Monkey trachea.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/tissues/monkey_trachea.png")
+knitr::include_graphics("./figures/tissues/monkey_trachea.jpg")
 ```
 
 ```{r fibro, fig.cap='Fibrocartilage.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/tissues/fibrocartilage.png")
+knitr::include_graphics("./figures/tissues/fibrocartilage.jpg")
 ```
 
 ```{r groundbone, fig.cap='Ground bone.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/tissues/ground_bone.png")
+knitr::include_graphics("./figures/tissues/ground_bone.jpg")
 ```
 
 ```{r bloodsmear, fig.cap='Human blood smear.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/tissues/blood_smear.png")
+knitr::include_graphics("./figures/tissues/blood_smear.jpg")
 ```
 
 ```{r sickle, fig.cap='Sickle cell blood smear.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/tissues/sickle_cell.png")
+knitr::include_graphics("./figures/tissues/sickle_cell.jpg")
 ```
 
 ```{r skeletal, fig.cap='Skeletal muscle.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/tissues/skeletal_muscle.png")
+knitr::include_graphics("./figures/tissues/skeletal_muscle.jpg")
 ```
 
 ```{r cardiac, fig.cap='Mammalian cardiac muscle.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/tissues/cardiac_muscle.png")
+knitr::include_graphics("./figures/tissues/cardiac_muscle.jpg")
 ```
 
 ```{r smooth, fig.cap='Smooth muscle.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/tissues/smooth_muscle.png")
+knitr::include_graphics("./figures/tissues/smooth_muscle.jpg")
 ```
 
 ```{r teased, fig.cap='A teased smooth muscle fiber.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/tissues/smooth_muscle_teased.png")
+knitr::include_graphics("./figures/tissues/smooth_muscle_teased.jpg")
 ```
 
 ```{r neuron, fig.cap='Motor neuron smear.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/tissues/neuron_smear.png")
+knitr::include_graphics("./figures/tissues/neuron_smear.jpg")
 ```
 
 ## Review Questions

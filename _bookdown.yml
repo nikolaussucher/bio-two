@@ -19,5 +19,5 @@ rmd_files:   [ "index.rmd",
               "appendix_1.rmd",
               "appendix_2.rmd",
             ]
-            
+output_dir: docs
 before_chapter_script:  "_common.R"

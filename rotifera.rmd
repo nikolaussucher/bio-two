@@ -50,11 +50,11 @@ They are hermaphrodites. Many species can reproduce both sexually and asexually 
     * Identify: Anterior region: gastrovascular cavity (GVC) surrounded by endoderm; pharynx region: pharynx, GVC surrounded by endoderm, epidermis, testis, dorsoventral muscles; posterior end: epidermis, GVC surrounded by endoderm, dorsoventral muscles, ventral nerve cord
 
 ```{r dugesia, fig.cap='*Dugesia*.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/rotifera/dugesia.png")
+knitr::include_graphics("./figures/rotifera/dugesia.jpg")
 ```
 
 ```{r dugesiaxs, fig.cap='*Dugesia* cross section through pharynx region.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/rotifera/dugesia_xs.png")
+knitr::include_graphics("./figures/rotifera/dugesia_xs.jpg")
 ```
 
 ## Cestoda
@@ -88,19 +88,19 @@ The lifecycle of tapeworms is simple in the sense that no asexual phases occur a
     * Identify: scolex, neck, bladder
 
 ```{r scolex, fig.cap='*Taenia scolex*.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/rotifera/taenia_scolex.png")
+knitr::include_graphics("./figures/rotifera/taenia_scolex.jpg")
 ```
 
 ```{r proglottid, fig.cap='*Taenia* proglottid.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/rotifera/taenia_proglottids.png")
+knitr::include_graphics("./figures/rotifera/taenia_proglottids.jpg")
 ```
 
 ```{r gravid, fig.cap='*Taenia* gravid proglottid.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/rotifera/taenia_gravid_proglottid.png")
+knitr::include_graphics("./figures/rotifera/taenia_gravid_proglottid.jpg")
 ```
 
 ```{r cysticercus, fig.cap='*Taenia solium* cysticercus.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/rotifera/taenia_solium_cysticercus.png")
+knitr::include_graphics("./figures/rotifera/taenia_solium_cysticercus.jpg")
 ```
 
 ## Trematoda
@@ -147,11 +147,11 @@ mounts (w.m.) of the flukes. Use only the 4x (low power) objective of your micro
     * Identify: mouth, oral and ventral suckers, pharynx, uterus, intestine
 
 ```{r clonorchis, fig.cap='Clonorchis sinensis.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/rotifera/clonorchis_sinensis_wm.png")
+knitr::include_graphics("./figures/rotifera/clonorchis_sinensis_wm.jpg")
 ```
 
 ```{r fasciola, fig.cap='Fasciola hepatica.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/rotifera/fasciola_hepatica.png")
+knitr::include_graphics("./figures/rotifera/fasciola_hepatica.jpg")
 ```
 
 ## Schistosoma
@@ -172,7 +172,7 @@ The adult female worm resides within the adult male worm's gynaecophoric canal, 
 1.  Cercariae w.m. (Figure \@ref(fig:cercaria)).
 
 ```{r cercaria, fig.cap='Schistosoma cercaria.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/rotifera/cercaria.png")
+knitr::include_graphics("./figures/rotifera/cercaria.jpg")
 ```
 
 ## Monogenea
@@ -243,7 +243,7 @@ In many marine gastropods other than the opisthobranchs, there are separate sexe
     * Locate rows of chitinous teeth.
 
 ```{r radula, fig.cap='Snail radula.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/rotifera/snail_radula.png")
+knitr::include_graphics("./figures/rotifera/snail_radula.jpg")
 ```
 
 ## Cephalopoda
@@ -315,7 +315,7 @@ Mating occurs on the surface, most often at night. Earthworms are hermaphrodites
 2.  Rotifers
 
 ```{r clam, fig.cap='Clam', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/rotifera/clam.png")
+knitr::include_graphics("./figures/rotifera/clam.jpg")
 ```
 
 ## Clam Dissection
@@ -366,7 +366,7 @@ The large muscle attached to the siphons is called the siphon retractor muscle. 
 4.  Wash hands before leaving class.
 
 ```{r earthworm, fig.cap='Earthworm dissection', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/rotifera/earthworm.png")
+knitr::include_graphics("./figures/rotifera/earthworm.jpg")
 ```
 
 ## Review Questions

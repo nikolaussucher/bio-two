@@ -39,7 +39,7 @@ The body is long, cylindrical, fusiform (pointed at both the ends), body wall is
 (ref:ascaris) Female *Ascaris*.
 
 ```{r ascaris, fig.cap='(ref:ascaris)', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/nematoda/ascaris_female.png")
+knitr::include_graphics("./figures/nematoda/ascaris_female.jpg")
 ```
 
 ## *Trichinella*
@@ -52,7 +52,7 @@ knitr::include_graphics("./figures/nematoda/ascaris_female.png")
 (ref:trichinella) *Trichinella* encysted in muscle.
 
 ```{r trichinella, fig.cap='(ref:trichinella)', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/nematoda/trichinella_encysted.png")
+knitr::include_graphics("./figures/nematoda/trichinella_encysted.jpg")
 ```
 
 ## Vinegar eels
@@ -117,23 +117,23 @@ The phylum Euarthropoda is typically subdivided into five subphyla, of which one
 23. Locate and identify the organs of the reproductive system. If the specimen is male, locate the testis. The testis is the long, white organ under the heart. If the specimen is a female, locate the bi-lobed ovary. It is in the same relative position as the testis, but the ovary appears as a large, reddish mass under the heart.
 
 ```{r crayfish, fig.cap='Crayfish', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/nematoda/crayfish.png")
+knitr::include_graphics("./figures/nematoda/crayfish.jpg")
 ```
 
 ```{r malecray, fig.cap='Ventral view of a male crayfish. Notice the gonapods and hooks.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/nematoda/male_crayfish.png")
+knitr::include_graphics("./figures/nematoda/male_crayfish.jpg")
 ```
 
 ```{r femalecray, fig.cap='Ventral view of a female crayfish. Notice the central opening to the seminal receptacle.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/nematoda/female_crayfish.png")
+knitr::include_graphics("./figures/nematoda/female_crayfish.jpg")
 ```
 
 ```{r dorsal, fig.cap='Dorsal view of the crayfish. Cut along the dotted lines.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/nematoda/crayfish_dorsal.png")
+knitr::include_graphics("./figures/nematoda/crayfish_dorsal.jpg")
 ```
 
 ```{r lateral, fig.cap='Lateral view of the crayfish. Cut along the dotted lines.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/nematoda/crayfish_lateral.png")
+knitr::include_graphics("./figures/nematoda/crayfish_lateral.jpg")
 ```
 
 ## Cleaning up

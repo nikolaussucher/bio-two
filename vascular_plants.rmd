@@ -23,27 +23,27 @@ Gymnosperms, like all vascular plants, have a sporophyte-dominant life cycle, wh
     * Identify: epidermis, stomata with guard cells, hypodermis, mesophyll, resin canals, endodermis, xylem, and phloem
 
 ```{r zamia, fig.cap='Young *Zamia* ovule.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/gymnosperms/zamia.png")
+knitr::include_graphics("./figures/gymnosperms/zamia.jpg")
 ```
 
 ```{r pine, fig.cap='Pine ovule', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/gymnosperms/pine_ovule.png")
+knitr::include_graphics("./figures/gymnosperms/pine_ovule.jpg")
 ```
 
 ```{r ovulate, fig.cap='Pine young ovulate cone.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/gymnosperms/pine_ovulate.png")
+knitr::include_graphics("./figures/gymnosperms/pine_ovulate.jpg")
 ```
 
 ```{r staminate, fig.cap='Pine staminate cone.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/gymnosperms/pine_staminate.png")
+knitr::include_graphics("./figures/gymnosperms/pine_staminate.jpg")
 ```
 
 ```{r pollen, fig.cap='Pine pollen.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/gymnosperms/pine_pollen.png")
+knitr::include_graphics("./figures/gymnosperms/pine_pollen.jpg")
 ```
 
 ```{r needle, fig.cap='Pine needle.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/gymnosperms/pine_needle.png")
+knitr::include_graphics("./figures/gymnosperms/pine_needle.jpg")
 ```
 
 ## Angiosperms
@@ -97,27 +97,27 @@ knitr::include_graphics("./figures/gymnosperms/angiosperm_life_cycle.svg")
     * Identify: embryo, cotyledons, root tip, shoot tip
 
 ```{r lilianther, fig.cap='Lily anther.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/gymnosperms/lily_anther.png")
+knitr::include_graphics("./figures/gymnosperms/lily_anther.jpg")
 ```
 
 ```{r lilipollen, fig.cap='Lily anther with mature pollen.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/gymnosperms/lily_pollen.png")
+knitr::include_graphics("./figures/gymnosperms/lily_pollen.jpg")
 ```
 
 ```{r lilitubes, fig.cap='Lily pollen tubes.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/gymnosperms/lily_tubes.png")
+knitr::include_graphics("./figures/gymnosperms/lily_tubes.jpg")
 ```
 
 ```{r liliovary, fig.cap='Lily ovary.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/gymnosperms/lily_ovary.png")
+knitr::include_graphics("./figures/gymnosperms/lily_ovary.jpg")
 ```
 
 ```{r tilia, fig.cap='*Tilia* 2 year old stem', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/gymnosperms/tilia.png")
+knitr::include_graphics("./figures/gymnosperms/tilia.jpg")
 ```
 
 ```{r capsella, fig.cap='*Capsella* seeds.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/gymnosperms/capsella_embryo.png")
+knitr::include_graphics("./figures/gymnosperms/capsella_embryo.jpg")
 ```
 
 ## Monocotyledons and Dicotyledons
@@ -146,42 +146,42 @@ Plant stem: Vascular bundles|Numerous scattered bundles in ground parenchyma, ca
     * Identify monocot and eudicot flower.
 
 ```{r monocotroot, fig.cap='Monocot root.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/gymnosperms/monocot_root.png")
+knitr::include_graphics("./figures/gymnosperms/monocot_root.jpg")
 ```
 
 ```{r dicotroot, fig.cap='Dicot root.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/gymnosperms/Dicot_root.png")
+knitr::include_graphics("./figures/gymnosperms/Dicot_root.jpg")
 ```
 
 ```{r monocotstem, fig.cap='Monocot stem.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/gymnosperms/monocot_stem.png")
+knitr::include_graphics("./figures/gymnosperms/monocot_stem.jpg")
 ```
 
 ```{r dicotstem, fig.cap='Dicot stem', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/gymnosperms/dicot_stem.png")
+knitr::include_graphics("./figures/gymnosperms/dicot_stem.jpg")
 ```
 
 ```{r monocotleave, fig.cap='Monocot leave.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/gymnosperms/monocot_leave.png")
+knitr::include_graphics("./figures/gymnosperms/monocot_leave.jpg")
 ```
 
 ```{r dicotleave, fig.cap='Dicot leave.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/gymnosperms/dicot_leave.png")
+knitr::include_graphics("./figures/gymnosperms/dicot_leave.jpg")
 ```
 
 ```{r monocotbud, fig.cap='Monocot flower bud.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/gymnosperms/monocot_flower_bud.png")
+knitr::include_graphics("./figures/gymnosperms/monocot_flower_bud.jpg")
 ```
 
 ```{r dicotbud, fig.cap='Dicot flower bud.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/gymnosperms/dicot_flower_bud.png")
+knitr::include_graphics("./figures/gymnosperms/dicot_flower_bud.jpg")
 ```
 
 ## *Lilium*
 *Lilium* is a genus of herbaceous flowering plants growing from bulbs, all with large prominent flowers. Lilies are a group of flowering plants which are important in culture and literature in much of the world. Most species are native to the temperate northern hemisphere, though their range extends into the northern subtropics. Lilies are tall perennials ranging in height from 2–6 ft.
 
 ```{r Lilies, fig.cap='Lilies', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/gymnosperms/lily.png")
+knitr::include_graphics("./figures/gymnosperms/lily.jpg")
 ```
 
 The flowers are large, often fragrant, and come in a wide range of colors including whites, yellows, oranges, pinks, reds and purples. Markings include spots and brush strokes. The plants are late spring- or summer-flowering. Flowers are at the tip of the stem, with six tepals (sepals and petals are not distinct). The tepals are free from each other, and bear a nectary at the base of each flower. The ovary is 'superior', borne above the point of attachment of the anthers. The fruit is a three-celled capsule. Seeds ripen in late summer. They exhibit varying and sometimes complex germination patterns, many adapted to cool temperate climates. 

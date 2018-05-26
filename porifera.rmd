@@ -24,7 +24,7 @@ Sponges are similar to other animals in that they are multicellular, heterotroph
 While most of the approximately 5,000–10,000 known species feed on bacteria and other food particles in the water, some host photosynthesizing micro-organisms as endosymbionts and these alliances often produce more food and oxygen than they consume. A few species of sponge that live in food-poor environments have become carnivores that prey mainly on small crustaceans.
 
 ```{r sponges, fig.cap='Sponges and corals.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/porifera/sponges.png")
+knitr::include_graphics("./figures/porifera/sponges.jpg")
 ```
 
 Sponges in temperate regions live for at most a few years, but some tropical species and perhaps some deep-ocean ones may live for 200 years or more. Some calcified demosponges grow by only 0.2 mm (0.0079 in) per year and, if that rate is constant, specimens 1 m (3.3 ft) wide must be about 5,000 years old. Some sponges start sexual reproduction when only a few weeks old, while others wait until they are several years old.
@@ -65,15 +65,15 @@ Glass sponge embryos start by dividing into separate cells, but once 32 cells ha
     * Notice shape.
 
 ```{r grantiaxs, fig.cap='*Grantia* cross section.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/porifera/grantia_xs.png")
+knitr::include_graphics("./figures/porifera/grantia_xs.jpg")
 ```
 
 ```{r grantials, fig.cap='*Grantia* longitudinal section.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/porifera/grantia_ls.png")
+knitr::include_graphics("./figures/porifera/grantia_ls.jpg")
 ```
 
 ```{r spicules, fig.cap='Spicules.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/porifera/spicules.png")
+knitr::include_graphics("./figures/porifera/spicules.jpg")
 ```
 
 ## *Cnidaria*
@@ -82,7 +82,7 @@ knitr::include_graphics("./figures/porifera/spicules.png")
 (ref:chrysaora) [Purple striped jellyfish *Chrysaora colorata*.](https://en.wikipedia.org/wiki/Chrysaora_colorata)
 
 ```{r chrysaora, fig.cap='(ref:chrysaora)', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/porifera/chrysaora_colorata.png")
+knitr::include_graphics("./figures/porifera/chrysaora_colorata.jpg")
 ```
 
 Not all cnidarians reproduce sexually, with many species having complex life cycles of asexual polyp stages and sexual medusae. Some, however, omit either the polyp or the medusa stage.
@@ -100,15 +100,15 @@ Most cnidarians prey on organisms ranging in size from plankton to animals sever
 (ref:anthopleura) [Giant green giant green anemone *Anthopleura xanthogrammica*.](https://en.wikipedia.org/wiki/Anthopleura_xanthogrammica)
 
 ```{r anthopleura, fig.cap='(ref:anthopleura)', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/porifera/anthopleura_xanthogrammica.png")
+knitr::include_graphics("./figures/porifera/anthopleura_xanthogrammica.jpg")
 ```
 
 Recent phylogenetic analyses support monophyly of cnidarians, as well as the position of cnidarians as the sister group of bilaterians. Fossil cnidarians have been found in rocks formed about 580 million years ago, and other fossils show that corals may have been present shortly before 490 million years ago and diversified a few million years later. However, molecular clock analysis of mitochondrial genes suggests a much older age for the crown group of cnidarians, estimated around 741 million years ago, almost 200 million years before the Cambrian period as well as any fossils.
 
-(ref:nematocyst) [A firing *Hydra* nematocyst.](https://commons.wikimedia.org/wiki/File:Hydra_nematocyst_firing_01.png)
+(ref:nematocyst) [A firing *Hydra* nematocyst.](https://commons.wikimedia.org/wiki/File:Hydra_nematocyst_firing_01.jpg)
 
 ```{r nematocyst, fig.cap='(ref:nematocyst)', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/porifera/nematocyst.png")
+knitr::include_graphics("./figures/porifera/nematocyst.jpg")
 ```
 
 ### Reproduction
@@ -150,7 +150,7 @@ Many members of the Hydrozoa go through a body change from a polyp to an adult f
 (ref:hydra) [A budding hydra.](https://en.wikipedia.org/wiki/Hydra_(genus)#/media/File:Hydra-Foto.jpg)
 
 ```{r hydra, fig.cap='(ref:hydra)', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/porifera/hydra.png")
+knitr::include_graphics("./figures/porifera/hydra.jpg")
 ```
 
 ## View Prepared Slides of *Hydra*
@@ -161,11 +161,11 @@ knitr::include_graphics("./figures/porifera/hydra.png")
     * Identify:  testis, sperms, epidermis, mesoglea, gastrodermis, gastrovascular cavity.
 
 ```{r hydraxs, fig.cap='Hydra cross section.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/porifera/hydra_xs.png")
+knitr::include_graphics("./figures/porifera/hydra_xs.jpg")
 ```
 
 ```{r spermary, fig.cap='Hydra spermary', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/porifera/hydra_spermary.png")
+knitr::include_graphics("./figures/porifera/hydra_spermary.jpg")
 ```
 
 ## *Aurelia*
@@ -180,15 +180,15 @@ knitr::include_graphics("./figures/porifera/hydra_spermary.png")
     * Identify:  tentacles, base, developing medusae (ephyrae).
 
 ```{r planula, fig.cap='Aurelia planula larva', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/porifera/aurelia_planula.png")
+knitr::include_graphics("./figures/porifera/aurelia_planula.jpg")
 ```
 
 ```{r scyphistoma, fig.cap='Aurelia scyphistoma', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/porifera/aurelia_scyphistoma.png")
+knitr::include_graphics("./figures/porifera/aurelia_scyphistoma.jpg")
 ```
 
 ```{r strobilus, fig.cap='Aurelia strobilus', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/porifera/aurelia_strobilus.png")
+knitr::include_graphics("./figures/porifera/aurelia_strobilus.jpg")
 ```
 
 ## *Obelia*
@@ -205,7 +205,7 @@ The planulae live free-swimming for a while but eventually attach themselves to 
 (ref:obelia) [*Obelia geniculata* colony with 3 hydranths and 2 gonophores.](https://commons.wikimedia.org/wiki/File:Obelia_geniculata.jpg)
 
 ```{r obelia, fig.cap='(ref:obelia)', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/porifera/obelia_geniculata.png")
+knitr::include_graphics("./figures/porifera/obelia_geniculata.jpg")
 ```
 
 ## View Prepared Slides of *Obelia*
@@ -217,20 +217,20 @@ knitr::include_graphics("./figures/porifera/obelia_geniculata.png")
 (ref:medusa) *Obelia* medusa.
 
 ```{r obeliamedusa, fig.cap='(ref:medusa)', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/porifera/obelia_medusa.png")
+knitr::include_graphics("./figures/porifera/obelia_medusa.jpg")
 ```
 
 (ref:obeliacolony) *Obelia* colony.
 
 ```{r obeliacolony, fig.cap='(ref:obeliacolony)', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/porifera/obelia_wm.png")
+knitr::include_graphics("./figures/porifera/obelia_wm.jpg")
 ```
 
 ## *Metridium*
 Members of the genus [*Metridium*](https://en.wikipedia.org/wiki/Metridium), also known as plumose anemones, are sea anemones found mostly in the cooler waters of the northern Pacific and Atlantic oceans. They are characterized by their numerous threadlike tentacles extending from atop a smooth cylindrical column, and can vary from a few centimeters in height up to one meter or more. In larger specimens, the oral disk becomes densely curved and frilly.
 
 ```{r metridum, fig.cap='*Metridium*.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/porifera/metridium_live.png")
+knitr::include_graphics("./figures/porifera/metridium_live.jpg")
 ```
 
 ## View Prepared Slides of *Metridium*
@@ -239,7 +239,7 @@ knitr::include_graphics("./figures/porifera/metridium_live.png")
     * Identify:  tentacles, mouth, type of symmetry.
 
 ```{r metridiumxs, fig.cap='*Metridium*.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/porifera/metridium.png")
+knitr::include_graphics("./figures/porifera/metridium.jpg")
 ```
 
 ## View Living Organisms

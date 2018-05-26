@@ -74,7 +74,7 @@ The next stage in development is a brachiolaria larva and involves the growth of
 19. Locate the bulb-like top of a tube foot called the ampulla. This sac works like the top of an eyedropper to create suction. The bottom of the tube foot is a sucker.
 
 ```{r starfish, fig.cap='Starfish with exposed pyloric cecae, gonads and ambulacral ridge.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/echinodermata/starfish.png")
+knitr::include_graphics("./figures/echinodermata/starfish.jpg")
 ```
 
 ## View Prepared Slides of Asterias
@@ -84,11 +84,11 @@ knitr::include_graphics("./figures/echinodermata/starfish.png")
     *   Locate: pincer-like structures used to cleanse the skin.
 
 ```{r tubefeet, fig.cap='Starfish tube feet.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/echinodermata/starfish_tubefeet.png")
+knitr::include_graphics("./figures/echinodermata/starfish_tubefeet.jpg")
 ```
 
 ```{r pedicellariae, fig.cap='Starfish pedicellariae.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/echinodermata/pedicellariae.png")
+knitr::include_graphics("./figures/echinodermata/pedicellariae.jpg")
 ```
 
 ## Hemichordata
@@ -136,7 +136,7 @@ Most [tunicates](https://en.wikipedia.org/wiki/Tunicate) appear as adults in two
 (ref:ascidians) [Ascicians](https://commons.wikimedia.org/wiki/File:Haeckel_Ascidiae.jpg)
 
 ```{r ascidians, fig.cap='(ref:ascidians)', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/echinodermata/Haeckel_Ascidiae.png")
+knitr::include_graphics("./figures/echinodermata/Haeckel_Ascidiae.jpg")
 ```
 
 ## View Prepared Slides of Tunicates
@@ -144,7 +144,7 @@ knitr::include_graphics("./figures/echinodermata/Haeckel_Ascidiae.png")
     * Identify: notochord
 
 ```{r ascidian, fig.cap='Ascician larva.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/echinodermata/ascidian_larva.png")
+knitr::include_graphics("./figures/echinodermata/ascidian_larva.jpg")
 ```
 
 ## Cephalochordates
@@ -164,11 +164,11 @@ It has an elongated body, flattened laterally and pointed at both ends. A stiffe
     * Locate: dorsal hollow nerve cord, notochord, pharyngeal gill slits, myotomes, liver.
 
 ```{r lanceletwm, fig.cap='A young adult lancelet.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/echinodermata/lancelet_wm.png")
+knitr::include_graphics("./figures/echinodermata/lancelet_wm.jpg")
 ```
 
 ```{r lanceletxs, fig.cap='Lancelet cross section.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/echinodermata/lancelet_xs.png")
+knitr::include_graphics("./figures/echinodermata/lancelet_xs.jpg")
 ```
 
 ## Review Questions

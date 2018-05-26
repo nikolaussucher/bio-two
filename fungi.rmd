@@ -50,19 +50,19 @@ Yeasts do not form a single taxonomic or phylogenetic grouping. The term "yeast"
 (ref:aspergillus) *Aspergillus* conidiophores.
 
 ```{r aspergillus, fig.cap='(ref:aspergillus)', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/fungi/aspergillus.png")
+knitr::include_graphics("./figures/fungi/aspergillus.jpg")
 ```
 
 (ref:penicillium) *Penicillium* conidiophores.
 
 ```{r penicillium, fig.cap='(ref:penicillium)', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/fungi/penicillium.png")
+knitr::include_graphics("./figures/fungi/penicillium.jpg")
 ```
 
 (ref:orange) *Penicillium* growing on orange peel.
 
 ```{r orange, fig.cap='(ref:orange)', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/fungi/penicillium_orange.png")
+knitr::include_graphics("./figures/fungi/penicillium_orange.jpg")
 ```
 
 Sexual reproduction with meiosis has been directly observed in all fungal phyla except Glomeromycota (genetic analysis suggests meiosis in Glomeromycota as well). It differs in many aspects from sexual reproduction in animals or plants. Differences also exist between fungal groups and have been used to discriminate species by morphological differences in sexual structures and reproductive strategies. The major fungal groupings have initially been delineated based on the morphology of their sexual structures and spores; for example, the spore-containing structures, asci (sacs) and basidia (clubs), can be used in the identification of ascomycetes (sac fungi) and basidiomycetes (club fungi), respectively. Some species may allow mating only between individuals of opposite mating type, whereas others can mate and sexually reproduce with any other individual or itself. Species of the former mating system are called heterothallic, and of the latter homothallic.
@@ -79,11 +79,11 @@ In ascomycetes, dikaryotic hyphae of the hymenium (the spore-bearing tissue laye
 (ref:peziza) *Peziza* apothecium.
 
 ```{r peziza, fig.cap='(ref:peziza)', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/fungi/peziza_apothecium.png")
+knitr::include_graphics("./figures/fungi/peziza_apothecium.jpg")
 ```
 
 ```{r yeast, fig.cap='Yeast.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/fungi/yeast.png")
+knitr::include_graphics("./figures/fungi/yeast.jpg")
 ```
 
 ## View Prepared Slides of Basidiomycetes
@@ -93,7 +93,7 @@ Sexual reproduction in basidiomycetes is similar to that of the ascomycetes. Com
       * Locate: gills, basidium with 4 basidiospores, hyphae
 
 ```{r basidia, fig.cap='*Coprinus* basidia with spores.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/fungi/basidia.png")
+knitr::include_graphics("./figures/fungi/basidia.jpg")
 ```
 
 ## View Prepared Slides of Glomeromycetes
@@ -109,13 +109,13 @@ In glomeromycetes (formerly zygomycetes), haploid hyphae of two individuals fuse
 (ref:rhizopussporangia) *Rhizopus* sporangia.
 
 ```{r rhizopussporangia, fig.cap='(ref:rhizopussporangia)', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/fungi/rhizopus_sporangia.png")
+knitr::include_graphics("./figures/fungi/rhizopus_sporangia.jpg")
 ```
 
 (ref:rhizopusconjugation) *Rhizopus* conjugation.
 
 ```{r rhizopusconjugation, fig.cap='(ref:rhizopusconjugation)', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/fungi/rhizopus_conjugation.png")
+knitr::include_graphics("./figures/fungi/rhizopus_conjugation.jpg")
 ```
 
 ## Lichen
@@ -124,7 +124,7 @@ A [lichen](https://en.wikipedia.org/wiki/Lichen) (Figure \@ref(fig:lichens)) is 
 (ref:lichens) [Lichens](https://commons.wikimedia.org/wiki/File:Haeckel_Lichenes.jpg) from Ernst Haeckel's [Kunstformen der Natur](https://en.wikipedia.org/wiki/Kunstformen_der_Natur), 1904.
 
 ```{r lichens, fig.cap='(ref:lichens)', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/fungi/Haeckel_Lichenes.png")
+knitr::include_graphics("./figures/fungi/Haeckel_Lichenes.jpg")
 ```
 
 ## View Prepared Slides of Lichens
@@ -132,7 +132,7 @@ knitr::include_graphics("./figures/fungi/Haeckel_Lichenes.png")
       * Locate: fungal hyphae, and algal cells inside
 
 ```{r lichen, fig.cap='Foliose lichen thallus and apothecia.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/fungi/foliose_lichen.png")
+knitr::include_graphics("./figures/fungi/foliose_lichen.jpg")
 ```
 
 ## View Living Organisms

@@ -38,19 +38,19 @@ knitr::include_graphics("./figures/pig/pig_dissection.svg")
 ```
 
 ```{r pig, fig.cap='Overview of the abdominal and thoracic cavities and the neck area.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/pig/pig.png")
+knitr::include_graphics("./figures/pig/pig.jpg")
 ```
 
 ```{r female, fig.cap='Close-up of the uterus and ovaries.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/pig/pig_uterus.png")
+knitr::include_graphics("./figures/pig/pig_uterus.jpg")
 ```
 
 ```{r male, fig.cap='Close-up of the testes.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/pig/pig_testes.png")
+knitr::include_graphics("./figures/pig/pig_testes.jpg")
 ```
 
 ```{r neck, fig.cap='Close-up of the neck area.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/pig/pig_neck.png")
+knitr::include_graphics("./figures/pig/pig_neck.jpg")
 ```
 
 ## Cleaning up

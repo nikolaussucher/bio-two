@@ -43,7 +43,7 @@ The goal of comparative embryology is to make sense of how an embryo develops, a
     + Locate: unfertilized egg, fertilized egg, 2-cell, 4-cell, 8-cell, morula, blastula, early gastrula, late gastrula, bipinnaria larva.  In a late gastrula, locate the primary germ layers (ectoderm, mesoderm, endoderm), archenteron (primitive gut), blastopore and blastocoel.
 
 ```{r development, fig.cap='Starfish development.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/development/starfish_development.png")
+knitr::include_graphics("./figures/development/starfish_development.jpg")
 ```
 
 ## Frog embryology
@@ -59,27 +59,27 @@ knitr::include_graphics("./figures/development/starfish_development.png")
       + Locate: neural tube, ectoderm, endoderm, mesoderm, coelom, archenteron, notochord
 
 ```{r cleavage, fig.cap='Frog early cleavage.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/development/frog_early_cleavage.png")
+knitr::include_graphics("./figures/development/frog_early_cleavage.jpg")
 ```
 
 ```{r blastula, fig.cap='Frog blastula.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/development/frog_blastula.png")
+knitr::include_graphics("./figures/development/frog_blastula.jpg")
 ```
 
 ```{r plug, fig.cap='Frog gastrulation with yolk plug.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/development/frog_gastrula_yolk_plug.png")
+knitr::include_graphics("./figures/development/frog_gastrula_yolk_plug.jpg")
 ```
 
 ```{r gastrula, fig.cap='Frog gastrula.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/development/frog_gastrula.png")
+knitr::include_graphics("./figures/development/frog_gastrula.jpg")
 ```
 
 ```{r groove, fig.cap='Frog neural groove.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/development/frog_neural_groove.png")
+knitr::include_graphics("./figures/development/frog_neural_groove.jpg")
 ```
 
 ```{r tube, fig.cap='Frog neural tube.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/development/frog_neural_tube.png")
+knitr::include_graphics("./figures/development/frog_neural_tube.jpg")
 ```
 
 ## Chicken embryology
@@ -99,19 +99,19 @@ mounts (w.m.) of chicken embryos. Use only the 4x (low power) objective of your 
       + Locate: same structures as above.
 
 ```{r chick33h, fig.cap='Chick embryo at 33 hours.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/development/chick_33h.png")
+knitr::include_graphics("./figures/development/chick_33h.jpg")
 ```
 
 ```{r chick48h, fig.cap='Chick embryo at 48 hours.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/development/chick_48h.png")
+knitr::include_graphics("./figures/development/chick_48h.jpg")
 ```
 
 ```{r chick72h, fig.cap='Chick embryo at 72 hours.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/development/chick_72h.png")
+knitr::include_graphics("./figures/development/chick_72h.jpg")
 ```
 
 ```{r chick96h, fig.cap='Chick embryo at 96 hours.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/development/chick_96h.png")
+knitr::include_graphics("./figures/development/chick_96h.jpg")
 ```
 
 ## Mammalian reproductive organs and gametes
@@ -131,27 +131,27 @@ knitr::include_graphics("./figures/development/chick_96h.png")
       + Identify: sperm, sperm head, sperm neck and sperm tail
 
 ```{r ovary, fig.cap='Cat ovary.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/development/cat_ovary.png")
+knitr::include_graphics("./figures/development/cat_ovary.jpg")
 ```
 
 ```{r uterus, fig.cap='Uterus.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/development/uterus.png")
+knitr::include_graphics("./figures/development/uterus.jpg")
 ```
 
 ```{r graafian, fig.cap='Graafian follicle in cat ovary.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/development/graafian_follicle.png")
+knitr::include_graphics("./figures/development/graafian_follicle.jpg")
 ```
 
 ```{r monkeytestis, fig.cap='Monkey testis.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/development/monkey_testis.png")
+knitr::include_graphics("./figures/development/monkey_testis.jpg")
 ```
 
 ```{r humantestis, fig.cap='Human testis.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/development/human_testis.png")
+knitr::include_graphics("./figures/development/human_testis.jpg")
 ```
 
 ```{r sperm, fig.cap='Human sperm.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/development/human_sperm.png")
+knitr::include_graphics("./figures/development/human_sperm.jpg")
 ```
 
 ## Review Questions

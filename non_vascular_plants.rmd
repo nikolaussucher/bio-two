@@ -32,7 +32,7 @@ Bryophytes first appeared during the early Paleozoic. They can only survive wher
 (ref:mosses) [Mosses](https://commons.wikimedia.org/wiki/File:Haeckel_Muscinae.jpg) from Ernst Haeckel's [Kunstformen der Natur](https://en.wikipedia.org/wiki/Kunstformen_der_Natur), 1904.
 
 ```{r mosses, fig.cap='(ref:mosses)', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/mosses/Haeckel_Muscinae.png")
+knitr::include_graphics("./figures/mosses/Haeckel_Muscinae.jpg")
 ```
 
 ### Life cycle
@@ -59,15 +59,15 @@ knitr::include_graphics("./figures/mosses/moss_life_cycle.svg")
     * Identify: protonema filaments; gametophyte bulbs
 
 ```{r mossarchegonium, fig.cap='Moss archegonium.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/mosses/moss_archegonium.png")
+knitr::include_graphics("./figures/mosses/moss_archegonium.jpg")
 ```
 
 ```{r mossantheridium, fig.cap='Moss antheridium.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/mosses/moss_antheridium.png")
+knitr::include_graphics("./figures/mosses/moss_antheridium.jpg")
 ```
 
 ```{r mosscapsule, fig.cap='Moss mature capsule.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/mosses/moss_capsule.png")
+knitr::include_graphics("./figures/mosses/moss_capsule.jpg")
 ```
 
 ## Liverworts
@@ -76,7 +76,7 @@ The [Marchantiophyta](https://en.wikipedia.org/wiki/Marchantiophyta) ([Figure \@
 (ref:hepatica) [Liverworts](https://commons.wikimedia.org/wiki/File:Haeckel_Hepaticae.jpg) from Ernst Haeckel's [Kunstformen der Natur](https://en.wikipedia.org/wiki/Kunstformen_der_Natur), 1904.
 
 ```{r hepatica, fig.cap='(ref:hepatica)', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/mosses/Haeckel_Hepaticae.png")
+knitr::include_graphics("./figures/mosses/Haeckel_Hepaticae.jpg")
 ```
 
 ### Life cycle
@@ -88,7 +88,7 @@ Some liverworts are capable of asexual reproduction. Some thallose liverworts su
 (ref:liverwort) [Life cycle of liverworts.](https://commons.wikimedia.org/wiki/File:Liverwort_life_cycle.jpg)
 
 ```{r liverwort, fig.cap='(ref:liverwort)', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/mosses/liverwort_life_cycle.png")
+knitr::include_graphics("./figures/mosses/liverwort_life_cycle.jpg")
 ```
 
 ## View Prepared Slides of Liverworts
@@ -106,23 +106,23 @@ knitr::include_graphics("./figures/mosses/liverwort_life_cycle.png")
     * Identify: gemma cup and gemmae
 
 ```{r marchantiathallus, fig.cap='*Marchantia* thallus.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/mosses/marchantia_thallus.png")
+knitr::include_graphics("./figures/mosses/marchantia_thallus.jpg")
 ```
 
 ```{r marchantiaarchegonia, fig.cap='*Marchantia* archegonia.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/mosses/marchantia_archegonia.png")
+knitr::include_graphics("./figures/mosses/marchantia_archegonia.jpg")
 ```
 
 ```{r marchantiaantheridia, fig.cap='*Marchantia* antheridia.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/mosses/marchantia_antheridia.png")
+knitr::include_graphics("./figures/mosses/marchantia_antheridia.jpg")
 ```
 
 ```{r marchantiasporophyte, fig.cap='*Marchantia* sporophyte.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/mosses/marchantia_sporophyte.png")
+knitr::include_graphics("./figures/mosses/marchantia_sporophyte.jpg")
 ```
 
 ```{r gemma, fig.cap='*Marchantia* gemma cup.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/mosses/marchantia_gemma_cup.png")
+knitr::include_graphics("./figures/mosses/marchantia_gemma_cup.jpg")
 ```
 
 ## Vascular plants
@@ -143,7 +143,7 @@ The [pteridophytes](https://en.wikipedia.org/wiki/Pteridophyte) are vascular pla
 (ref:ferns) [Ferns](https://commons.wikimedia.org/wiki/File:Haeckel_Filicinae_92.jpg) from Ernst Haeckel's [Kunstformen der Natur](https://en.wikipedia.org/wiki/Kunstformen_der_Natur), 1904.
 
 ```{r ferns, fig.cap='(ref:ferns)', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/mosses/Haeckel_Filicinae_92.png")
+knitr::include_graphics("./figures/mosses/Haeckel_Filicinae_92.jpg")
 ```
 
 ### Life cycle
@@ -169,7 +169,7 @@ The life cycle of a typical fern proceeds as follows:
     *   Identify: micro- and megaspores
 
 ```{r selaginstrobilus, fig.cap='Selaginella strobilus.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/mosses/selaginella_strobilus.png")
+knitr::include_graphics("./figures/mosses/selaginella_strobilus.jpg")
 ```
 
 ## Horsetails
@@ -180,7 +180,7 @@ knitr::include_graphics("./figures/mosses/selaginella_strobilus.png")
     *   Identify: sporangiphores and spores
 
 ```{r equisetumstrobilus, fig.cap='*Equisetum* strobilus.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/mosses/equisetum_strobilus.png")
+knitr::include_graphics("./figures/mosses/equisetum_strobilus.jpg")
 ```
 
 ## Whisk ferns
@@ -191,7 +191,7 @@ knitr::include_graphics("./figures/mosses/equisetum_strobilus.png")
     *   Identify: Sporangium, spores.
 
 ```{r psilotumsporangium, fig.cap='*Psilotum* sporangium.', echo=FALSE, message=FALSE, warning=FALSE}
-    knitr::include_graphics("./figures/mosses/psilotum_sporangium.png")
+    knitr::include_graphics("./figures/mosses/psilotum_sporangium.jpg")
 ```
 
 ## View Prepared Slides of Ferns
@@ -202,15 +202,15 @@ knitr::include_graphics("./figures/mosses/equisetum_strobilus.png")
     *   Identify: sporophyte, gametophyte; rhizoids
 
 ```{r fernsporophyte, fig.cap='Fern sporophyte.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/mosses/fern_sporophyte.png")
+knitr::include_graphics("./figures/mosses/fern_sporophyte.jpg")
 ```
 
 ```{r ferngametophyte, fig.cap='Fern antheridia and archegonia.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/mosses/fern_antheridia_archegonia.png")
+knitr::include_graphics("./figures/mosses/fern_antheridia_archegonia.jpg")
 ```
 
 ```{r fernprothallus, fig.cap='Fern prothallus young sporophyte.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/mosses/fern_prothallus.png")
+knitr::include_graphics("./figures/mosses/fern_prothallus.jpg")
 ```
 
 ## View Prepared Slides of *Cyrtomium*
@@ -220,7 +220,7 @@ knitr::include_graphics("./figures/mosses/fern_prothallus.png")
     *   Locate sorus and identify the following: sporangia with spores inside; annular cells (annulus); lip cells; indusium (covering of the sorus).
 
 ```{r cyrtomium, fig.cap='*Cyrtomium* falcatum sorus on leaf.', echo=FALSE, message=FALSE, warning=FALSE}
-    knitr::include_graphics("./figures/mosses/cyrtomium_sorus.png")
+    knitr::include_graphics("./figures/mosses/cyrtomium_sorus.jpg")
 ```
 
 ## View Living Organisms
