@@ -156,12 +156,12 @@ knitr::include_graphics("./figures/tissues/adipose.jpg")
 knitr::include_graphics("./figures/tissues/hyaline_cartilage.jpg")
 ```
 
-```{r elastic, fig.cap='Elastic cartilage.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/tissues/elastic_cartilage.jpg")
-```
-
 ```{r trachea, fig.cap='Monkey trachea.', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/tissues/monkey_trachea.jpg")
+```
+
+```{r elastic, fig.cap='Elastic cartilage.', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/tissues/elastic_cartilage.jpg")
 ```
 
 ```{r fibro, fig.cap='Fibrocartilage.', echo=FALSE, message=FALSE, warning=FALSE}
