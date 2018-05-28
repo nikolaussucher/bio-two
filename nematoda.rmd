@@ -121,19 +121,19 @@ knitr::include_graphics("./figures/nematoda/crayfish.jpg")
 ```
 
 ```{r malecray, fig.cap='Ventral view of a male crayfish. Notice the gonapods and hooks.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/nematoda/male_crayfish.jpg")
+knitr::include_graphics("./figures/nematoda/male_crayfish.svg")
 ```
 
 ```{r femalecray, fig.cap='Ventral view of a female crayfish. Notice the central opening to the seminal receptacle.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/nematoda/female_crayfish.jpg")
+knitr::include_graphics("./figures/nematoda/female_crayfish.svg")
 ```
 
 ```{r dorsal, fig.cap='Dorsal view of the crayfish. Cut along the dotted lines.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/nematoda/crayfish_dorsal.jpg")
+knitr::include_graphics("./figures/nematoda/crayfish_dorsal.svg")
 ```
 
 ```{r lateral, fig.cap='Lateral view of the crayfish. Cut along the dotted lines.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/nematoda/crayfish_lateral.jpg")
+knitr::include_graphics("./figures/nematoda/crayfish_lateral.svg")
 ```
 
 ## Cleaning up
