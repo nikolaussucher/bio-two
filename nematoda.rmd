@@ -117,7 +117,7 @@ The phylum Euarthropoda is typically subdivided into five subphyla, of which one
 23. Locate and identify the organs of the reproductive system. If the specimen is male, locate the testis. The testis is the long, white organ under the heart. If the specimen is a female, locate the bi-lobed ovary. It is in the same relative position as the testis, but the ovary appears as a large, reddish mass under the heart.
 
 ```{r crayfish, fig.cap='Crayfish', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/nematoda/crayfish.jpg")
+knitr::include_graphics("./figures/nematoda/crayfish.svg")
 ```
 
 ```{r malecray, fig.cap='Ventral view of a male crayfish. Notice the gonapods and hooks.', echo=FALSE, message=FALSE, warning=FALSE}
