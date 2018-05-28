@@ -1,6 +1,6 @@
 # Laboratory Manual for Biology II
 
-This is an open source, open educational resource (OER) laboratory manual that I am  developing for the SCI104 Biology II course at Roxbury Community College in Boston, Massachusetts. This introductory course focuses on n on organismal biology. A second manual is under development for the SCI103 Biology I course that is focused on the cellular and molecular aspects of biology.
+This is an open source, open educational resource (OER) laboratory manual that I am  developing for the SCI104 Biology II course at [Roxbury Community College](http://www.rcc.mass.edu) in Boston, Massachusetts. This introductory course focuses on n on organismal biology. A second manual is under development for the SCI103 Biology I course that is focused on the cellular and molecular aspects of biology.
 
 I am developing this manual as [free software](https://www.gnu.org/philosophy/free-sw.en.html) but license it under the [Creative Commons Attribution-Share Alike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/deed.en) United States License because I love [Wikipedia](https://www.wikipedia.org) from which I have heavily borrowed.
 
