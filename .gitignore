@@ -3,8 +3,7 @@ _book
 104_lab_manual
 _main.epub
 *.aux
-*.un~
-*.txt~
+*.*~
 .*~
 *.pdf
 *.idx
