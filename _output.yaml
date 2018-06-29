@@ -10,8 +10,8 @@ bookdown::gitbook:
       link:               https://github.com/nikolaussucher/bio-two/edit/master/%s
       text:               "Edit"
     sharing:              yes 
-    #    download:             ["pdf"]
-    download:             ["pdf", "epub"]
+    download:             ["pdf"]
+#    download:             ["pdf", "epub"]
 #bookdown::html_chapters:
 #  css:                    [css/style.css, css/toc.css]
 
