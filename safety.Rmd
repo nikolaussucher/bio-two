@@ -3,7 +3,7 @@ The laboratory classes are hands-on. Some classes require the use of hazardous c
 
 Please watch the [RCC safety video](https://youtu.be/NxcsyTv7stQ)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NxcsyTv7stQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/NxcsyTv7stQ" frameborder="0" width="500" height="315"></iframe>
 
 ```{block2, type='rmdimportant'}
 **Prior to your participation in the science lab course, you must read this safety document and sign and return the acknowledgment and agreement page.**
