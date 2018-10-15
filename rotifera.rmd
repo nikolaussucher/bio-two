@@ -143,11 +143,18 @@ mounts (w.m.) of the flukes. Use only the 4x (low power) objective of your micro
 
 1.  *Clonorchis sinensis* w.m. (Figure \@ref(fig:clonorchis)).
     * Identify: oral and ventral suckers, pharynx, esophagus, dead-end intestine, reproductive structures, excretory pore
-2.  *Fasciola hepatica* w.m. (Figure \@ref(fig:fasciola)).
+2.  *Clonorchis sinensis* eggs (Figure \@ref(fig:clonorchis_eggs)).
+    * Identify: oral and ventral suckers, pharynx, esophagus, dead-end intestine, reproductive structures, excretory pore
+3.  *Fasciola hepatica* w.m. (Figure \@ref(fig:fasciola)).
     * Identify: mouth, oral and ventral suckers, pharynx, uterus, intestine
+
 
 ```{r clonorchis, fig.cap='Clonorchis sinensis.', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/rotifera/clonorchis_sinensis_wm.jpg")
+```
+
+```{r clonorchis_eggs, fig.cap='Clonorchis sinensis eggs.', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/rotifera/clonorchis_eggs.jpg")
 ```
 
 ```{r fasciola, fig.cap='Fasciola hepatica.', echo=FALSE, message=FALSE, warning=FALSE}
