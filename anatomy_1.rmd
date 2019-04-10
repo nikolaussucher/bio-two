@@ -63,7 +63,7 @@ knitr::include_graphics("./figures/pig/pig_neck.jpg")
 1.  What are the names of the cavities that are separated by the diaphragm?
 2.  Where is the pancreas located?
 3.  What is the shape of the uterus in the pig?
-4.  What shape the shapes of two major parts of the colon in the pig?
+4.  What are the shapes of two major parts of the colon in the pig?
 5.  What is the name of the part of the colon that where the small intestine fuses with the large intestine?
 6.  Where is the thyroid gland located?
 7.  Where is the thymus located?
