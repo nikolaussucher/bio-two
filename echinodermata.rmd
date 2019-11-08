@@ -133,7 +133,7 @@ The position of lampreys is ambiguous. They have complete braincases and rudimen
 ## Tunicates
 Most [tunicates](https://en.wikipedia.org/wiki/Tunicate) appear as adults in two major forms, both of which are soft-bodied filter-feeders that lack the standard features of chordates: "sea squirts" are sessile and consist mainly of water pumps and filter-feeding apparatus; salps float in mid-water, feeding on plankton, and have a two-generation cycle in which one generation is solitary and the next forms chain-like colonies. However, all tunicate larvae have the standard chordate features, including long, tadpole-like tails; they also have rudimentary brains, light sensors and tilt sensors. The third main group of tunicates, Appendicularia (also known as Larvacea) retain tadpole-like shapes and active swimming all their lives, and were for a long time regarded as larvae of sea squirts or salps. The etymology of the term Urochorda(ta) (Balfour 1881) is from the ancient Greek oura, "tail") + Latin chorda ("cord"), because the notochord is only found in the tail. The term Tunicata (Lamarck 1816) is recognized as having precedence and is now more commonly used.
 
-(ref:ascidians) [Ascicians](https://commons.wikimedia.org/wiki/File:Haeckel_Ascidiae.jpg)
+(ref:ascidians) [Ascidians](https://commons.wikimedia.org/wiki/File:Haeckel_Ascidiae.jpg)
 
 ```{r ascidians, fig.cap='(ref:ascidians)', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/echinodermata/Haeckel_Ascidiae.jpg")
