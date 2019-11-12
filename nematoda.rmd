@@ -104,16 +104,16 @@ The phylum Euarthropoda is typically subdivided into five subphyla, of which one
 11. On the thoracic portion of the cephalothorax, observe the three pointed maxillipeds.
 12. On the abdomen, observe six distinct segments. Observe a pair of swimmerets on each of the first five segments.
 13. On the last abdominal segment, observe a pair of pointed appendages modified into a pair of uropods. In the middle of the uropods, locate the triangular-shaped telson.
-14. Determine the sex of your specimen. Males (Fig. \@ref(fig:malecray) have hardened gonapods and hooks on the third pair of legs. Females (\@ref(fig:femalecray) have an opening to a seminal receptacle between the fifth pair of legs.
+14. Determine the sex of your specimen. Males (Fig. \@ref(fig:malecray)) have hardened gonapods and hooks on the third pair of legs. Females (\@ref(fig:femalecray)) have an opening to a seminal receptacle between the fifth pair of legs.
 15. Turn the crayfish around so that its dorsal side is upward.
 16. Use one hand to hold the crayfish dorsal side up in the dissecting tray, use scissors to carefully cut through the back of the carapace along the dotted line shown in figure \@ref(fig:dorsal) below. Cut along the indentations that separate the thoracic portion of the carapace into three regions. Start the cut at the posterior edges of the carapace, and extend it along both sides in the cephalic region.
 17. Using the forceps, carefully and slowly lift away the carapace.
 18. Place the crayfish on its side (head facing left). Using scissors, cut starting at the base along the dotted line shown in Figure \@ref(fig:lateral). Extend the cut line forward toward the rostrum (at the top of the head).
 19. Use forceps to carefully lift away the remaining parts of the carapace, exposing the underlying gills and other organs.
-20. Locate and identify the organs of the digestive system. Locate the maxillae that pass the pieces of food into the mouth. The food travels down the short esophagus into the stomach. Locate the digestive gland, which produces digestive substances and from which the absorption of nutrients occurs. Undigested material passes into the intestine. Observe that the intestine is attached to the lobed stomach. The undigested material is eliminated from the anus.
+20. Locate and identify the organs of the digestive and excretory systems. Locate the maxillae that pass the pieces of food into the mouth. The food travels down the short esophagus into the lobed (two-part) stomach (Fig. \@ref(fig:brain)). Locate the digestive gland, which produces digestive substances and from which the absorption of nutrients occurs. Undigested material passes into the intestine. Observe that the intestine is attached to the stomach. The undigested material is eliminated from the anus. Locate the green glands at the base of the antennae of the maxilla (Fig. \@ref(fig:gland)). The green glands are part of the excretory system and eliminate toxic and waste products similar to the function of the kidneys in mammals.
 16. Locate the gills, which are feather-like structures found underneath the carapace and attached to the chelipeds and walking legs.
-21. Locate the dorsal tubular heart and several arteries. Notice the holes in the heart indicatin that the crayfish has an open circulatory system in which the blood flows from arteries into sinuses, or spaces, in tissues. The blood flows over the gills before returning to the heart through the holes.
-22. Find the ventral nerve cord. Locate a ganglion, one of the enlargements of the ventral nerve cord. Locate the dorsal brain, which is located just behind the compound eyes. Note the two large nerves that lead from the brain, around the esophagus, and join the ventral nerve cord.
+21. Locate the dorsal tubular heart and several arteries. Notice the holes in the heart (Fig. \@ref(fig:heart)) indicating that the crayfish has an open circulatory system in which the blood flows from arteries into sinuses, or spaces, in tissues. The blood flows over the gills before returning to the heart through the holes.
+22. Find the ventral nerve cord. Locate a ganglion, one of the enlargements of the ventral nerve cord. Locate the dorsal brain (Fig. \@ref(fig:brain)) which is located just behind the compound eyes. Note the two large nerves that lead from the brain, around the esophagus, and join the ventral nerve cord.
 23. Locate and identify the organs of the reproductive system. If the specimen is male, locate the testis. The testis is the long, white organ under the heart. If the specimen is a female, locate the bi-lobed ovary. It is in the same relative position as the testis, but the ovary appears as a large, reddish mass under the heart.
 
 ```{r crayfish, fig.cap='Crayfish', echo=FALSE, message=FALSE, warning=FALSE}
@@ -135,6 +135,23 @@ knitr::include_graphics("./figures/nematoda/crayfish_dorsal.svg")
 ```{r lateral, fig.cap='Lateral view of the crayfish. Cut along the dotted lines.', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/nematoda/crayfish_lateral.svg")
 ```
+
+```{r brain, fig.cap='The crayfish brain and cardiac and pyloric stomach.', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/nematoda/crayfish_brain_and_stomach.jpg")
+```
+
+```{r heart, fig.cap='The crayfish heart. Notice the holes in the lateral walls.', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/nematoda/crayfish_heart.jpg")
+```
+
+```{r teeth, fig.cap='Teeth in the stomach of the crayfish.', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/nematoda/crayfish_teeth.jpg")
+```
+
+```{r gland, fig.cap='The green glands (also called maxillary or antennal glands) of the crayfish.', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/nematoda/crayfish_green_gland.jpg")
+```
+
 
 ## Cleaning up
 1.  Dispose of the remains of the crayfish in the red biohazard bins.
