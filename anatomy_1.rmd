@@ -15,8 +15,8 @@ surface of both males and females.
 5.  Locate the umbilical cord and make a transverse cut through the umbilical cord.
 6.  Examine the cut end and locate the two umbilical arteries that carry blood from the fetal pig to the placenta, and the single umbilical vein that delivers nutrient-rich blood back to the fetal pig.
 7.  Determine the sex of your specimen:
-    *   Female: The urogenital opening in the female is immediately ventral to the anus and has a small genital papilla marking its location.
-    *   Male: The scrotal sac is ventral to the anus and a urogenital opening is just posterior to the umbilical cord.
+    *   Female: The urogenital opening in the female is immediately ventral to the anus and has a small genital papilla marking its location (Figure \@ref(fig:female)).
+    *   Male: The scrotal sac is ventral to the anus (Figure \@ref(fig:male)) and a urogenital opening is just posterior to the umbilical cord .
 8.  Use a piece of string and tie one end of it around the ankle of the left foreleg.
 9.  Pass the oither end of the string under the dissecting pan and tie it to the other foreleg. Stretch the string tightly so that it will hold the pig’s legs apart.
 10. Tie a second piece of string in the same manner around the hindlegs.
@@ -35,6 +35,14 @@ surface of both males and females.
 
 ```{r dissection, fig.cap='Cut along the dotted lines to expose the abdominal and thoracic cavieties and the neck area.', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/pig/pig_dissection.svg")
+```
+
+```{r female, fig.cap='View of the urogenital papilla and anus of the female pig.', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/pig/pig_female.jpg")
+```
+
+```{r male, fig.cap='View of anus of the male pig.', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/pig/pig_male.jpg")
 ```
 
 ```{r pig, fig.cap='Overview of the abdominal and thoracic cavities and the neck area.', echo=FALSE, message=FALSE, warning=FALSE}
