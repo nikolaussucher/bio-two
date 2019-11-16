@@ -1,0 +1,501 @@
+\documentclass[]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage{hyperref}
+\hypersetup{unicode=true,
+            pdfborder={0 0 0},
+            breaklinks=true}
+\urlstyle{same}  % don't use monospace font for urls
+\usepackage{longtable,booktabs}
+\usepackage{graphicx}
+% grffile has become a legacy package: https://ctan.org/pkg/grffile
+\IfFileExists{grffile.sty}{%
+\usepackage{grffile}
+}{}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+%%% Use protect on footnotes to avoid problems with footnotes in titles
+\let\rmarkdownfootnote\footnote%
+\def\footnote{\protect\rmarkdownfootnote}
+
+
+  \title{}
+    \author{}
+    \date{}
+  
+\documentclass[]{book}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage[margin=1in,letterpaper,twoside]{geometry}
+\usepackage{hyperref}
+\hypersetup{unicode=true,
+            pdftitle={Biology II Laboratory Manual},
+            pdfauthor={Nikolaus Sucher},
+            pdfborder={0 0 0},
+            breaklinks=true}
+\urlstyle{same}  % don't use monospace font for urls
+\usepackage{longtable,booktabs}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Redefine longtable because it doesn't work in multicolumn
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% \makeatletter
+% \let\oldlt\longtable
+% \let\endoldlt\endlongtable
+% \def\longtable{\@ifnextchar[\longtable@i \longtable@ii}
+% \def\longtable@i[#1]{\begin{figure}[t]
+% \onecolumn
+% \begin{minipage}{0.5\textwidth}
+% \oldlt[#1]
+% }
+% \def\longtable@ii{\begin{figure}[t]
+% \onecolumn
+% \begin{minipage}{0.5\textwidth}
+% \oldlt
+% }
+% \def\endlongtable{\endoldlt
+% \end{minipage}
+% \twocolumn
+% \end{figure}}
+% \makeatother
+
+
+\usepackage{graphicx,grffile}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
+% Redefines (sub)paragraphs to behave more like sections
+% \ifx\paragraph\undefined\else
+% \let\oldparagraph\paragraph
+% \renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+% \fi
+% \ifx\subparagraph\undefined\else
+% \let\oldsubparagraph\subparagraph
+% \renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+% \fi
+
+%%% Use protect on footnotes to avoid problems with footnotes in titles
+\let\rmarkdownfootnote\footnote%
+\def\footnote{\protect\rmarkdownfootnote}
+
+%%% Change title format to be more compact
+\usepackage{titling}
+
+% Create subtitle command for use in maketitle
+\newcommand{\subtitle}[1]{
+  \posttitle{
+    \begin{center}\large#1\end{center}
+    }
+}
+
+\setlength{\droptitle}{-2em}
+  \title{Laboratory Manual For SCI104\\(Biology II at Roxbury Community College)}
+  \pretitle{\vspace{\droptitle}\centering\huge}
+  \posttitle{\par}
+  \author{Nikolaus Sucher}
+  \preauthor{\centering\large\emph}
+  \postauthor{\par}
+  \date{}
+  \predate{}\postdate{}
+
+
+\usepackage[raggedright]{titlesec}
+
+
+\usepackage[bf,singlelinecheck=off]{caption}
+\usepackage{siunitx}
+\usepackage{framed}
+\usepackage{xcolor}
+ \definecolor{shadecolor}{RGB}{248,248,248}
+\usepackage{grffile}
+\usepackage{graphicx}
+\usepackage{morefloats}
+\usepackage{parskip}
+ \setlength{\parindent}{15pt}
+
+%\renewcommand{\textfraction}{0.05}
+%\renewcommand{\topfraction}{0.8}
+%\renewcommand{\bottomfraction}{0.8}
+%\renewcommand{\floatpagefraction}{0.75}
+
+\renewenvironment{quote}{\begin{VF}}{\end{VF}}
+\let\oldhref\href
+\renewcommand{\href}[2]{#2\footnote{\url{#1}}}
+
+\ifxetex
+  \usepackage{letltxmacro}
+  \setlength{\XeTeXLinkMargin}{1pt}
+  \LetLtxMacro\SavedIncludeGraphics\includegraphics
+  \def\includegraphics#1#{% #1 catches optional stuff (star/opt. arg.)
+    \IncludeGraphicsAux{#1}%
+  }%
+  \newcommand*{\IncludeGraphicsAux}[2]{%
+    \XeTeXLinkBox{%
+      \SavedIncludeGraphics#1{#2}%
+    }%
+  }%
+\fi
+
+\makeatletter
+\newenvironment{kframe}{%
+\medskip{}
+\setlength{\fboxsep}{.8em}
+ \def\at@end@of@kframe{}%
+ \ifinner\ifhmode%
+  \def\at@end@of@kframe{\end{minipage}}%
+  \begin{minipage}{\columnwidth}%
+ \fi\fi%
+ \def\FrameCommand##1{\hskip\@totalleftmargin \hskip-\fboxsep
+ \colorbox{shadecolor}{##1}\hskip-\fboxsep
+     % There is no \\@totalrightmargin, so:
+     \hskip-\linewidth \hskip-\@totalleftmargin \hskip\columnwidth}%
+ \MakeFramed {\advance\hsize-\width
+   \@totalleftmargin\z@ \linewidth\hsize
+   \@setminipage}}%
+ {\par\unskip\endMakeFramed%
+ \at@end@of@kframe}
+\makeatother
+
+\newenvironment{Shaded}{\begin{kframe}}{\end{kframe}}
+
+\newenvironment{rmdblock}[1]
+  {
+  \begin{itemize}
+  \renewcommand{\labelitemi}{
+    \raisebox{-.7\height}[0pt][0pt]{
+      {\setkeys{Gin}{width=3em,keepaspectratio}\includegraphics{images/#1}}
+    }
+  }
+  \setlength{\fboxsep}{1em}
+  \begin{kframe}
+  \item
+  }
+  {
+  \end{kframe}
+  \end{itemize}
+  }
+
+\newenvironment{rmdnote}
+  {\begin{rmdblock}{note}}
+  {\end{rmdblock}}
+
+\newenvironment{rmdcaution}
+  {\begin{rmdblock}{caution}}
+  {\end{rmdblock}}
+
+\newenvironment{rmdimportant}
+  {\begin{rmdblock}{important}}
+  {\end{rmdblock}}
+
+\newenvironment{rmdtip}
+  {\begin{rmdblock}{tip}}
+  {\end{rmdblock}}
+
+\newenvironment{rmdwarning}
+  {\begin{rmdblock}{warning}}
+  {\end{rmdblock}}
+
+\usepackage{makeidx}
+ \makeindex
+
+\usepackage{amsthm}
+\makeatletter
+\def\thm@space@setup{%
+  \thm@preskip=8pt plus 2pt minus 4pt
+  \thm@postskip=\thm@preskip
+}
+\makeatother
+
+
+\usepackage{amsthm}
+\newtheorem{theorem}{Theorem}[chapter]
+\newtheorem{lemma}{Lemma}[chapter]
+\theoremstyle{definition}
+\newtheorem{definition}{Definition}[chapter]
+\newtheorem{corollary}{Corollary}[chapter]
+\newtheorem{proposition}{Proposition}[chapter]
+\theoremstyle{definition}
+\newtheorem{example}{Example}[chapter]
+\theoremstyle{definition}
+\newtheorem{exercise}{Exercise}[chapter]
+\theoremstyle{remark}
+\newtheorem*{remark}{Remark}
+\newtheorem*{solution}{Solution}
+\let\BeginKnitrBlock\begin \let\EndKnitrBlock\end
+
+% to get balanced columns in the acknowledgements
+\usepackage{multicol}
+
+% To get the table fit the column
+\usepackage{array}
+\usepackage{tabularx}
+\newcolumntype{Y}{>{\raggedright\arraybackslash}X}
+
+% handwriting font calligra
+\usepackage{calligra}
+
+% makes it possible to include the cover pdf page
+\usepackage{pdfpages}
+
+% fix spacing between section and figure numbers and titles in table of contents and list of figures
+\usepackage{tocloft}
+\cftsetindents{section}{1em}{3em}
+\cftsetindents{figure}{1em}{3em}
+
+\begin{document}
+
+\hypertarget{mammalian-anatomy-i}{%
+\section{Mammalian Anatomy I}\label{mammalian-anatomy-i}}
+
+The domestic pig (\emph{Sus scrofa domesticus} or only \emph{Sus domesticus}), often called swine, hog, or simply pig when there is no need to distinguish it from other pigs, is a large, even-toed ungulate. It is variously considered a subspecies of the wild boar or a distinct species. The domestic pig's head-plus-body-length ranges from 0.9 to 1.8 m, and the adult can weigh between 50 and 350 kg. Compared to other \href{https://en.wikipedia.org/wiki/Even-toed_ungulate}{even-toed ungulates} (artiodactyls), its head is relatively long, pointed, and free of warts. Artiodactyls are generally herbivorous, but the domestic pig is an omnivore, like its wild relative. When used as livestock, domestic pigs are farmed primarily for the consumption of their meat, called pork. The animal's bones, hide, and bristles are also used in commercial products. Domestic pigs, especially miniature breeds, are often kept as pets. Female pigs reach sexual maturity at 3--12 months of age, and can mate every 18--24 days if they are not pregnant. The pregnancy period averages 112--120 days.
+
+\BeginKnitrBlock{rmdnote}
+
+The domestic pig, both as a live animal and source of post-mortem tissues, is one of the most valuable animal models used in biomedical research today, because of its biological, physiological and anatomical similarities to human beings. This is also the reason why we have chosen \href{https://en.wikipedia.org/wiki/Fetal_pig}{fetal pigs} for dissection in this lab.
+
+\EndKnitrBlock{rmdnote}
+
+\hypertarget{fetal-pig-dissection}{%
+\subsection{Fetal Pig Dissection}\label{fetal-pig-dissection}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Obtain a dissecting pan, a pair of scissors, a scalpel, forceps, and a pointer.
+\item
+  Obtain a fetal pig.
+\item
+  Place your fetal pig in the dissecting pan ventral side up.
+\item
+  Examine the fetal pig and locate two rows of nipples of mammary glands on the ventral abdominal
+  surface of both males and females.
+\item
+  Locate the umbilical cord and make a transverse cut through the umbilical cord.
+\item
+  Examine the cut end and locate the two umbilical arteries that carry blood from the fetal pig to the placenta, and the single umbilical vein that delivers nutrient-rich blood back to the fetal pig.
+\item
+  Determine the sex of your specimen:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Female: The urogenital opening in the female is immediately ventral to the anus and has a small genital papilla marking its location (Figure @ref(fig:urogenital)).
+  \item
+    Male: The scrotal sac is ventral to the anus (Figure @ref(fig:anus)) and a urogenital opening is just posterior to the umbilical cord .
+  \end{itemize}
+\item
+  Use a piece of string and tie one end of it around the ankle of the left foreleg.
+\item
+  Pass the oither end of the string under the dissecting pan and tie it to the other foreleg. Stretch the string tightly so that it will hold the pig's legs apart.
+\item
+  Tie a second piece of string in the same manner around the hindlegs.
+\item
+  Probe the chest area of the pig with your fingers. You should be able to feel the hard sternum (breastbone) and the ridges of the ribcage. Move your fingers down until you feel the bottom edge of the rib cage. This is where the diaphragm separates the thoracic and abdominal cavities.
+\item
+  Grab the tip of the umbilical cord with the thumb and index finger of your left hand (if you are right handed), holding the scissors in your left hand, make a careful incision just above of the umbilical cord (towards the head). When you see the opening of the abdominal cavity, continue cutting along the lines shown in Figure @ref(fig:dissection).
+\item
+  Cut through the skin and the muscle, but be careful not to cut too deep to avoid damaging the internal organs. Use a forceps to hold the tissue away from the organs as you cut. Carry the incision all the way to the pan.
+\item
+  Lift up the flaps of skin, peel them back so they lay flat on the pan.
+\item
+  Do not remove the umbilical cord, cut around it as indicated.
+\item
+  Inspect the abdominal cavity and identify the organs located in this cavity (Figure @ref(fig:pig)).
+\item
+  If your pig is a female, identify the uterus and ovaries (Figure @ref(fig:female)).
+\item
+  If yor pig is male, dissect the groin area of the pig and identify the testes (Figure @ref(fig:male)).
+\item
+  Use the scissors to cut through the rib cage and the sternum. When you reach the midpoint between the forelegs, make another incision towards the right and left side of the pig all the way down to the pan.
+\item
+  Pull back the rib cage and pin the two flaps to the pan to expose the thoracic cavity.
+\item
+  Carefully cut along the midline towards the mouth to expose the neck area (Figure @ref(fig:neck)).
+\end{enumerate}
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/pig/pig_dissection} 
+
+}
+
+\caption{Cut along the dotted lines to expose the abdominal and thoracic cavieties and the neck area.}(\#fig:dissection)
+\end{figure}
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/pig/pig_female} 
+
+}
+
+\caption{View of the urogenital papilla and anus of the female pig.}(\#fig:urogenital)
+\end{figure}
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/pig/pig_male} 
+
+}
+
+\caption{View of anus of the male pig.}(\#fig:anus)
+\end{figure}
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/pig/pig} 
+
+}
+
+\caption{Overview of the abdominal and thoracic cavities and the neck area.}(\#fig:pig)
+\end{figure}
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/pig/pig_uterus} 
+
+}
+
+\caption{Close-up of the uterus and ovaries.}(\#fig:female)
+\end{figure}
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/pig/pig_testes} 
+
+}
+
+\caption{Close-up of the testes.}(\#fig:male)
+\end{figure}
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/pig/pig_neck} 
+
+}
+
+\caption{Close-up of the neck area.}(\#fig:neck)
+\end{figure}
+
+\hypertarget{cleaning-up}{%
+\subsection{Cleaning up}\label{cleaning-up}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Dispose of the remains of the pig in the red biohazard bins.
+\item
+  Clean the dissection tray and instruments and return them to the place where you picked them up.
+\item
+  Clean table tops with red bottled sanitizer
+\item
+  Wash hands before leaving class
+\end{enumerate}
+
+\hypertarget{review-questions}{%
+\subsection{Review Questions}\label{review-questions}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  What are the names of the cavities that are separated by the diaphragm?
+\item
+  Where is the pancreas located?
+\item
+  What is the shape of the uterus in the pig?
+\item
+  What are the shapes of two major parts of the colon in the pig?
+\item
+  What is the name of the part of the colon that where the small intestine fuses with the large intestine?
+\item
+  Where is the thyroid gland located?
+\item
+  Where is the thymus located?
+\end{enumerate}
+
+
+\end{document}
