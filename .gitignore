@@ -5,7 +5,7 @@ _main.epub
 *.aux
 *.*~
 .*~
-*.pdf
+main.pdf
 *.idx
 *.out
 *.log
