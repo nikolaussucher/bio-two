@@ -25,12 +25,13 @@ Over half of all known flatworm species are parasitic, and some do enormous harm
 
 In traditional medicinal texts, Platyhelminthes are divided into
 
-*   Turbellaria
-*	  Cestoda
-*	  Trematoda
-*	  Monogenea
+* Turbellaria
+* Cestoda
+* Trematoda
+* Monogenea
 
 ## Turbellaria
+
 [Turbellaria](https://en.wikipedia.org/wiki/Turbellaria) have about 4,500 species, are mostly free-living, and range from 1 mm (0.039 in) to 600 mm in length. Most are predators or scavengers, and terrestrial species are mostly nocturnal and live in shaded, humid locations, such as leaf litter or rotting wood. However, some are symbiotes of other animals, such as crustaceans, and some are parasites. Free-living turbellarians are mostly black, brown or gray, but some larger ones are brightly colored.
 
 ## *Dugesia*
