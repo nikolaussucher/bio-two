@@ -90,6 +90,14 @@ The phylum Euarthropoda is typically subdivided into five subphyla, of which one
 ## Crayfish
 [Crayfish](https://en.wikipedia.org/wiki/Crayfish), also known as crawfish, crawdads, freshwater lobsters, mountain lobsters, mudbugs or yabbies, are freshwater crustaceans resembling small lobsters, to which they are related. They breathe through feather-like gills. Some species are found in brooks and streams where there is running fresh water, while others thrive in swamps, ditches, and paddy fields. Crayfish feed on animals and plants, either living or decomposing, and detritus. Its body is made up of twenty body segments grouped into two main body parts, the cephalothorax and the abdomen. Each segment may possess one pair of appendages, although in various groups these may be reduced or missing. On average, crayfish grow to 17.5 centimeters in length, but some grow larger. Walking legs have a small claw at the end.
 
+Please watch the following [video](https://youtu.be/2cBGuEDxvNo) showing the external anatomy of a crayfish:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2cBGuEDxvNo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Please watch the following [video](https://youtu.be/wSGEt1mY2OM) showing the internal anatomy of a crayfish:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wSGEt1mY2OM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Crayfish Dissection
 1.  Get a dissction pan, scissorc, forceps, and a pointer.
 2.  Get a cray fish.
@@ -124,8 +132,16 @@ knitr::include_graphics("./figures/nematoda/crayfish.svg")
 knitr::include_graphics("./figures/nematoda/male_crayfish.svg")
 ```
 
+```{r malecraypic, fig.cap='Ventral view of a male crayfish.', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/nematoda/male_crayfish_pic.jpg")
+```
+
 ```{r femalecray, fig.cap='Ventral view of a female crayfish. Notice the central opening to the seminal receptacle.', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/nematoda/female_crayfish.svg")
+```
+
+```{r femalecraypic, fig.cap='Ventral view of a female crayfish.', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/nematoda/female_crayfish_pic.jpg")
 ```
 
 ```{r dorsal, fig.cap='Dorsal view of the crayfish. Cut along the dotted lines.', echo=FALSE, message=FALSE, warning=FALSE}

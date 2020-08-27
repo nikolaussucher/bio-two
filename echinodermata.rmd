@@ -52,6 +52,14 @@ Most starfish embryos hatch at the blastula stage. The original ball of cells de
 
 The next stage in development is a brachiolaria larva and involves the growth of three short, additional arms. These are at the anterior end, surround a sucker and have adhesive cells at their tips. Both bipinnaria and brachiolaria larvae are bilaterally symmetrical. When fully developed, the brachiolaria settles on the seabed and attaches itself with a short stalk formed from the ventral arms and sucker. Metamorphosis now takes place with a radical rearrangement of tissues. The left side of the larval body becomes the oral surface of the juvenile and the right side the aboral surface. Part of the gut is retained but the mouth and anus move to new positions. Some of the body cavities degenerate but others become the water vascular system and the visceral coelom. The starfish is now pentaradially symmetrical. It casts off its stalk and becomes a free-living juvenile starfish about 1 mm in diameter.
 
+Please watch the following [video](https://youtu.be/wSGEt1mY2OM) showing the external anatomy of a crayfish:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TioCree5axI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Please watch the following [video](https://youtu.be/Xm2mF2IgLrA) showing the internal anatomy of a crayfish:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xm2mF2IgLrA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Starfish Dissection
 1.  Get a dissecting pan, scissors and a pointer.
 2.  Obtain a preserved starfish.

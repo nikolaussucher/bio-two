@@ -322,9 +322,9 @@ Mating occurs on the surface, most often at night. Earthworms are hermaphrodites
 1.  Turbellaria
 2.  Rotifers
 
-```{r clam, fig.cap='Clam', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/rotifera/clam.jpg")
-```
+Please watch the following [video](https://youtu.be/0-IxHCPif9c) of a clam dissection:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0-IxHCPif9c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Clam Dissection
 1.  Get a dissecting pan, a scalpel, forceps, and a pointer.
@@ -336,18 +336,42 @@ knitr::include_graphics("./figures/rotifera/clam.jpg")
 7.  Repeat step 6 in cutting the posterior adductor muscle.
 8.  Bend the left valve back so it lies flat on the tray. Once both adductor muscles have been cut away from the left shell, the shell can be opened easily.
 9.  Locate the muscle "scars" on the inner surface of the left valve. The adductor muscles were attached here to hold the clam closed.
-12. Identify the mantle, the tissue that lines both valves & covers the soft body of the clam. Find the mantle cavity, the space inside the mantle.
+12. Identify the mantle, the tissue that lines both valves & covers the soft body of the clam. Find the mantle cavity, the space inside the mantle (see Figure \@ref(fig:clammantle)).
 13. Locate two openings on the posterior end of the clam. The more ventral opening is the incurrent siphon that carries water into the clam and the more dorsal opening is the excurrent siphon where wastes and water leave.
 The large muscle attached to the siphons is called the siphon retractor muscle. There would be another one on the right side. These muscles pull the siphon in. Most clams can retract the siphons completely into the shell.
 14. Lift the mantle up. Notice how thin it is. Remove the mantle to expose the gills and the foot.  Notice the structure of the gills. Bivalves are filter feeders. The gills are used to strain plankton out of the water, as well as to remove oxygen from the water. There are another pair of gills on the right side of the clam.
 15. Observe the muscular foot of the clam, which is ventral to the gills. Note the hatchet shape of the foot used to burrow into mud or sand.
-16. Locate the labial palps, flaplike structures that surround and guide food into the clam's mouth. The palps are anterior to the gills & ventral to the anterior adductor muscle. Between the palps, find the mouth.
+16. Locate the labial palps, flaplike structures that surround and guide food into the clam's mouth. The palps are anterior to the gills & ventral to the anterior adductor muscle. Between the palps, find the mouth (see Figure \@ref(fig:clamgills)).
 17. Carefully make an incision in the middle of the visceral mass to view the internal organs.
 19. Locate the spongy, yellowish reproductive organs.
 20. Ventral to the umbo, find the digestive gland, a greenish structure that surrounds the stomach.
 21. Locate the long, coiled intestine extending from the stomach.
-22. Follow the intestine through the clam. Find the area near the dorsal surface that the intestine passes through called the pericardial area. Find the clam's heart in this area.
+22. Follow the intestine through the clam. Find the area near the dorsal surface that the intestine passes through called the pericardial area. Find the clam's heart in this area (see Figure \@ref(fig:clamcoelom)).
 23. Continue following the intestine toward the posterior end of the clam. The heart is contained in a thin-walled sac called the pericardium near the top of the clam above the visceral mass. The tube-like structure that runs through the pericardium is the intestine.
+
+(ref:clamshell) External features of the clam. Lateral view of the left side of a clam shell. Note the umbo (top left) and growth rings. 
+
+```{r clam, fig.cap='(ref:clamshell)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/rotifera/clam.jpg")
+```
+
+(ref:mantle) View of the mantle covering the left side of the clam. 
+
+```{r clammantle, fig.cap='(ref:mantle)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/rotifera/clam_dissection_mantle.jpg")
+```
+
+(ref:gills) View of the left side of the clam after removal of the mantle. Note the labial palps, foot and gills. 
+
+```{r clamgills, fig.cap='(ref:gills)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/rotifera/clam_dissection_gills.jpg")
+```
+
+(ref:coelom) View of the coelomic cavity with the heart exposed.
+
+```{r clamcoelom, fig.cap='(ref:coelom)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/rotifera/clam_dissection_coelom.jpg")
+```
 
 ## Cleaning up
 1.  Dispose of the remains of the clam in the red biohazard bins.
